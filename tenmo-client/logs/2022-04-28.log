@@ -1,0 +1,13 @@
+2022-04-28T14:41:12.6430784 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-28T20:49:54.7458317 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-28T20:55:28.0454284 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-28T20:55:43.6071074 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-28T20:56:38.3773235 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-28T20:56:44.7182743 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-28T20:58:58.2659794 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-28T20:59:04.2454205 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-28T21:02:00.8659662 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-28T21:03:03.3272048 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-28T21:09:07.5642269 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-28T21:10:57.6278213 500 : [{"timestamp":"2022-04-29T04:10:57.573+00:00","status":500,"error":"Internal Server Error","message":"Failed to evaluate expression 'isAuthenticated'","path":"/register"}]
+2022-04-28T21:20:00.0944567 500 : [{"timestamp":"2022-04-29T04:20:00.040+00:00","status":500,"error":"Internal Server Error","message":"Failed to evaluate expression 'isAuthenticated'","path":"/register"}]

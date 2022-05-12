@@ -1,0 +1,5 @@
+2022-04-29T07:32:41.5136436 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-29T07:33:25.3349965 500 : [{"timestamp":"2022-04-29T14:33:25.291+00:00","status":500,"error":"Internal Server Error","message":"Failed to evaluate expression 'isAuthenticated'","path":"/register"}]
+2022-04-29T07:33:31.6522061 500 : [{"timestamp":"2022-04-29T14:33:31.650+00:00","status":500,"error":"Internal Server Error","message":"Failed to evaluate expression 'isAuthenticated'","path":"/login"}]
+2022-04-29T07:33:45.5369868 500 : [{"timestamp":"2022-04-29T14:33:45.534+00:00","status":500,"error":"Internal Server Error","message":"Failed to evaluate expression 'isAuthenticated'","path":"/register"}]
+2022-04-29T08:15:17.6939576 401 : [no body]
